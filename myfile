@@ -1,4 +1,9 @@
+ch<<<<<<< HEAD
 <<<<<<< HEAD
  parent of dfdb446.
 hello
 >>>>>>> parent of 9741a92... after stash
+=======
+hello
+hello
+>>>>>>> parent of 95ce9af... merge conflict
